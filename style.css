@@ -1,0 +1,56 @@
+body{
+  font-family: helvetica;
+  color: #ffff;
+  background-image: url("https://planwallpaper.com/static/images/colorful-triangles-background_yB0qTG6.jpg")
+}
+a {
+  text-decoration: none;
+  color: #3C71FF;
+
+}
+header {
+  background: #555;
+  color: #E82C0C;
+  height: 150px;
+}
+header div{
+  width: 960px;
+  margin: 0 auto;
+}
+nav ul li {
+  display: inline-block;
+  margin-right: 90px;
+  margin-top: 0px;
+  font-size: 20px;
+  font-family: fantasy;
+}
+
+h1 {
+  font-style: oblique;
+  font-size: 40px;
+  margin-bottom: 20px;
+}
+p{
+  font-family: fantasy;
+  margin-bottom: 30px;
+}
+h2{
+  font-size: 40px;
+  margin-bottom: 5px;
+  margin-left: : 60px;
+  font-family: cursive;
+}
+
+.main-banner {
+  margin-left: 80px;
+}
+
+.sub-banners {
+margin-top: 30px;
+}
+
+.sub-banners li {
+float: left;
+margin-right: 30px;
+
+}
